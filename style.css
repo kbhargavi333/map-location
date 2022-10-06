@@ -1,0 +1,30 @@
+
+ body{
+    width: auto;
+    height: auto;
+ }
+ #map {
+    height: 100%;
+    width: 100%;
+    margin: auto;
+  }
+  .hel{
+   height: 700px;
+   width: 100%;
+   margin: auto;
+   border: 0%;
+  }
+  #button{
+   position: absolute;
+   top: 80%;
+   z-index: 1; 
+   left: 48%;
+   background-color: rgb(77, 77, 216);
+   padding: 10px;
+   color: white;
+   border-radius: 7px;
+
+
+  }
+  
+  
